@@ -22,7 +22,7 @@
       }
     },
     updated() {
-      this.update()
+      // this.update()
     },
     attached() {
       this.update()

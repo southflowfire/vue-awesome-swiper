@@ -117,7 +117,7 @@
       this.update()
     },
     updated() {
-      this.update()
+      // this.update()
     },
     beforeDestroy() {
       this.$nextTick(function() {
